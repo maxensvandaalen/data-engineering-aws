@@ -1,0 +1,12 @@
+# Python
+__pycache__
+
+# Environments
+.venv
+
+# Logs
+logs/*
+*.log
+
+# Variables
+infra_variables.sh
